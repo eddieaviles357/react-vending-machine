@@ -7,6 +7,7 @@ export default function VendingMachine() {
     return (
         <div className='VendingMachine'>
             <Aside />
+            <span className='Vertical-line' />
             <Nav />
         </div>
     )
